@@ -1,0 +1,15 @@
+current directory: /Users/saekoyamada/Documents/taskleaf_custom/vendor/bundler/ruby/2.5.0/gems/bootsnap-1.7.5/ext/bootsnap
+/Users/saekoyamada/.rbenv/versions/2.5.8/bin/ruby -r ./siteconf20210516-7336-o8n3ms.rb extconf.rb
+creating Makefile
+
+current directory: /Users/saekoyamada/Documents/taskleaf_custom/vendor/bundler/ruby/2.5.0/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/saekoyamada/Documents/taskleaf_custom/vendor/bundler/ruby/2.5.0/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/saekoyamada/Documents/taskleaf_custom/vendor/bundler/ruby/2.5.0/gems/bootsnap-1.7.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210516-7336-1cy4sm6/bootsnap
